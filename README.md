@@ -20,11 +20,12 @@ This is an end-to-end Data Analytics project built using **Python, PostgreSQL, a
 - Discount Impact on Profit
 
 ## 📷 Dashboard Preview
+
 ### Page 1
-![Dashboard Page 1](screenshots_Page1.png)
+![Dashboard Page 1](SCREENSHORTS/Page 1.png)
 
 ### Page 2
-![Dashboard Page 2](screenshots_Page2.png)
+![Dashboard Page 2](SCREENSHORTS/Page 2.png)
 
 ## 📁 Project Files
 - `Superstore_raw.csv`
