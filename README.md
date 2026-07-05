@@ -19,14 +19,6 @@ This is an end-to-end Data Analytics project built using **Python, PostgreSQL, a
 - Profit by Customer Segment
 - Discount Impact on Profit
 
-## 📷 Dashboard Preview
-
-### Page 1
-![Dashboard Page 1](SCREENSHORTS/Page%201.png)
-
-### Page 2
-![Dashboard Page 2](SCREENSHORTS/Page%202.png)
-
 ## 📁 Project Files
 - `Superstore_raw.csv`
 - `global_superstore.py`
