@@ -1,30 +1,45 @@
 # 🌍 Global Superstore Sales Analysis
 
 ## 📌 Project Overview
-This is an end-to-end Data Analytics project built using **Python, PostgreSQL, and Power BI**. The project focuses on analyzing global sales, profit, customers, products, and regional performance using the Global Superstore dataset.
+This end-to-end Data Analytics project analyzes global sales, profit, customer behavior, and product performance using the Global Superstore dataset. The project demonstrates the complete analytics workflow from data cleaning to interactive dashboard creation.
+
+## 🎯 Business Objectives
+- Analyze sales and profit performance.
+- Identify top-performing products and regions.
+- Evaluate customer segment profitability.
+- Discover sales trends over time.
 
 ## 🛠️ Tools & Technologies
 - Python (Pandas)
 - PostgreSQL
+- SQL
 - Power BI
-- CSV
 
 ## 📊 Key Analysis
-- Total Sales, Profit, and Orders
-- Sales & Profit by Region
-- Top 10 Countries by Orders
-- Top 10 Products by Sales
-- Year-wise Sales Trend
-- Category-wise Performance
-- Profit by Customer Segment
-- Discount Impact on Profit
+- Total Sales, Profit & Orders
+- Sales by Region
+- Top 10 Countries
+- Top Products by Sales
+- Sales Trend Analysis
+- Category Performance
+- Customer Segment Analysis
+- Discount vs Profit Analysis
 
-## 📁 Project Files
-- `Superstore_raw.csv`
-- `global_superstore.py`
-- `global_superstore_final.csv`
-- `global_superstore.sql`
-- `global_superstore.pbix`
+## 🚀 Skills Demonstrated
+- Data Cleaning
+- SQL Querying
+- Data Analysis
+- Data Visualization
+- Dashboard Development
+- Business Intelligence
 
----
-**Created by Hajra Nausheen**
+## 📁 Project Structure
+- Raw Dataset
+- Cleaned Dataset
+- Python Script
+- SQL Queries
+- Power BI Dashboard
+- Dashboard Screenshots
+
+## 👩‍💻 Author
+**Hajra Nausheen**
